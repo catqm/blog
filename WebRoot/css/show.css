@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+
+.show {
+	width: 1000px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.classname{
+	float:left;
+	width:150px;
+	height:400px;
+}
+
+.articleinfo{
+	float:right;
+	width:800px;
+	height:800px;
+}
+
+.each{
+	float:left;
+	width:100%;
+	height:100px;
+	border:1px solid #c0c0c0;
+	margin-buttom:20px;
+	margin-top:20px;
+}
+
+.info li {
+	color: #808080;
+	float: left;
+	list-style-type: none;
+	font-size: 12px;
+	line-height: 35px;
+	text-align:center;
+}

@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.write{
+	width: 800px;
+	height: 100%;
+	margin: 0 auto;
+}
+.title{
+	width:800px;
+}
+.title input{
+	width:800px;
+}
+.content p{
+	float:left;
+}
+.content textarea{
+	float:left;
+	width:800px;
+	height:500px;
+}
+.sub{
+	margin-top:20px;
+	float:left;
+	width:200px;
+}
+.select{
+	margin-top:20px;
+	float:right;
+}

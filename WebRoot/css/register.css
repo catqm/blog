@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.register {
+	width: 1000px;
+	height: 520px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.reg_table {
+	margin-left: 150px;
+	margin-top: 5px;
+}
+
+.reg_table table {
+	width: 700px;
+	line-height:30px;
+}
+
+.tab_td1 {
+	width: 110px;
+	text-align: right;
+	font-size:15px;
+	font-weight: blod;
+	padding:10px;
+}
+.tab_td2{
+	width:250px;
+}

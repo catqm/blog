@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+
+body {
+	font-size: 12px;
+	margin: 0 auto;
+}
+
+* {
+	padding: 0px;
+}
+
+a.anavi:link,a.anavi:visited,a.anavi:hover,a.anavi:active {
+	color:#fff;
+	text-decoration:none;
+}
+
+a:link,a:visiter,a:active{
+	color:#BDD4E7;
+	text-decoration:none;
+}
+
+a.anavi:hover{
+	color:#BDD4E7;
+	text-decoration:underline;
+}
+
+a.anavi2:link,a.anavi2:visited,a.anavi2:hover,a.anavi2:active {
+	color:#565264;
+	text-decoration:none;
+}
+
+a.anavi2:hover{
+	color:#706677;
+	text-decoration:underline;
+}
+
+.font1{
+	font-weight:bold;
+	font-family:SimHei;
+}
+
+.font2{
+	font-size:20px;
+	font-weight:bold;
+	font-family:SimHei;
+}
+
+.spanVal{
+	color:red;
+	font-size:15px;
+	padding:3px;
+	width:220px;
+	height:14px;
+}

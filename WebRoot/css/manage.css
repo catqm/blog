@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.all{
+	width: 1000px;
+	height: 520px;
+	margin: 0 auto;
+}
+.left{
+	padding: 10px 0 0;
+	width: 200px;
+	height: 500px;
+	float: left;
+}
+.right{
+	width: 780px;
+	height: 500px;
+	float: right;
+}

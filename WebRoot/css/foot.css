@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.foot{
+	height: 20px;
+	width: 1000px;
+	background-color:#637074;
+	margin: 0 auto;
+	text-align:center
+}
+.foot span{
+	color:#fff;
+	line-height:20px; 
+}
